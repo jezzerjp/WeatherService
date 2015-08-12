@@ -1,0 +1,17 @@
+C:\Users\Jeremy\documents\visual studio 2015\Projects\WeatherService\WeatherService.Business\bin\Debug\WeatherService.Business.dll
+C:\Users\Jeremy\documents\visual studio 2015\Projects\WeatherService\WeatherService.Business\bin\Debug\WeatherService.Business.pdb
+C:\Users\Jeremy\documents\visual studio 2015\Projects\WeatherService\WeatherService.Business\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\Jeremy\documents\visual studio 2015\Projects\WeatherService\WeatherService.Business\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\Jeremy\documents\visual studio 2015\Projects\WeatherService\WeatherService.Business\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Jeremy\documents\visual studio 2015\Projects\WeatherService\WeatherService.Business\bin\Debug\WeatherService.Models.dll
+C:\Users\Jeremy\documents\visual studio 2015\Projects\WeatherService\WeatherService.Business\bin\Debug\WeatherService.WeatherProviders.dll
+C:\Users\Jeremy\documents\visual studio 2015\Projects\WeatherService\WeatherService.Business\bin\Debug\RestSharp.dll
+C:\Users\Jeremy\documents\visual studio 2015\Projects\WeatherService\WeatherService.Business\bin\Debug\WeatherService.Models.pdb
+C:\Users\Jeremy\documents\visual studio 2015\Projects\WeatherService\WeatherService.Business\bin\Debug\WeatherService.WeatherProviders.pdb
+C:\Users\Jeremy\documents\visual studio 2015\Projects\WeatherService\WeatherService.Business\bin\Debug\Microsoft.Practices.Unity.xml
+C:\Users\Jeremy\documents\visual studio 2015\Projects\WeatherService\WeatherService.Business\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+C:\Users\Jeremy\documents\visual studio 2015\Projects\WeatherService\WeatherService.Business\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Jeremy\documents\visual studio 2015\Projects\WeatherService\WeatherService.Business\bin\Debug\RestSharp.xml
+C:\Users\Jeremy\documents\visual studio 2015\Projects\WeatherService\WeatherService.Business\obj\Debug\WeatherService.Business.csprojResolveAssemblyReference.cache
+C:\Users\Jeremy\documents\visual studio 2015\Projects\WeatherService\WeatherService.Business\obj\Debug\WeatherService.Business.dll
+C:\Users\Jeremy\documents\visual studio 2015\Projects\WeatherService\WeatherService.Business\obj\Debug\WeatherService.Business.pdb

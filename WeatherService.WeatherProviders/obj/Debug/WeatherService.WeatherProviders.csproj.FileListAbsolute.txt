@@ -1,0 +1,13 @@
+C:\Users\Jeremy\documents\visual studio 2015\Projects\WeatherService\WeatherService.WeatherProviders\bin\Debug\WeatherService.WeatherProviders.dll
+C:\Users\Jeremy\documents\visual studio 2015\Projects\WeatherService\WeatherService.WeatherProviders\bin\Debug\WeatherService.WeatherProviders.pdb
+C:\Users\Jeremy\documents\visual studio 2015\Projects\WeatherService\WeatherService.WeatherProviders\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\Jeremy\documents\visual studio 2015\Projects\WeatherService\WeatherService.WeatherProviders\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\Jeremy\documents\visual studio 2015\Projects\WeatherService\WeatherService.WeatherProviders\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Jeremy\documents\visual studio 2015\Projects\WeatherService\WeatherService.WeatherProviders\bin\Debug\RestSharp.dll
+C:\Users\Jeremy\documents\visual studio 2015\Projects\WeatherService\WeatherService.WeatherProviders\bin\Debug\Microsoft.Practices.Unity.xml
+C:\Users\Jeremy\documents\visual studio 2015\Projects\WeatherService\WeatherService.WeatherProviders\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+C:\Users\Jeremy\documents\visual studio 2015\Projects\WeatherService\WeatherService.WeatherProviders\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Jeremy\documents\visual studio 2015\Projects\WeatherService\WeatherService.WeatherProviders\bin\Debug\RestSharp.xml
+C:\Users\Jeremy\documents\visual studio 2015\Projects\WeatherService\WeatherService.WeatherProviders\obj\Debug\WeatherService.WeatherProviders.csprojResolveAssemblyReference.cache
+C:\Users\Jeremy\documents\visual studio 2015\Projects\WeatherService\WeatherService.WeatherProviders\obj\Debug\WeatherService.WeatherProviders.dll
+C:\Users\Jeremy\documents\visual studio 2015\Projects\WeatherService\WeatherService.WeatherProviders\obj\Debug\WeatherService.WeatherProviders.pdb
